@@ -1,4 +1,5 @@
-#java-drawing-app
+# java-drawing-app
+
 Author: Harjap Uppal
 
 This program is a simple drawing app. It allows users to draw various shapes (Rectangle, Square, Circle) onto a canvas with customizable color and size options. 
