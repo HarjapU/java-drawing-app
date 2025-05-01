@@ -14,3 +14,5 @@ Instructions for Use:
 5. Toggle the "Erase" button to use the eraser tool.
 6. Click anywhere on the canvas to draw shapes.
 7. Use "Clear" to erase all drawings, "Help" for usage instructions, and "Exit" to close the app.
+
+This project is licensed under the [MIT License](LICENSE).
